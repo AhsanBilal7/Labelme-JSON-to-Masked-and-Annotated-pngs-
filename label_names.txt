@@ -1,0 +1,10 @@
+__ignore__
+_background_
+background
+land
+road
+road_affected
+house_affected
+water
+landslide
+house
