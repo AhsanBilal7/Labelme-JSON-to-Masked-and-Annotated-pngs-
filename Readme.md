@@ -18,6 +18,8 @@ By This you can easily convert
 2. Change the ```output_dir``` and ```json_dir``` accordingly 
 3. Define all labels that are present in the JSON file in the ```Labels``` array
 
+## Image Segmentation Model
+Taken the Image Segmentation Model from (Deep Learning Specialization)[https://www.coursera.org/specializations/deep-learning]  
+
 Email Us @ bilal.ahsan7705@gmail.com
 
-1. Visit the application homepage: [https://www.utuexample.com](https://www.example.com).
